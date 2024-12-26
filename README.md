@@ -40,4 +40,4 @@ I'm deeply committed to designing and building web applications that prioritize 
 
 ## 🌟 Let's Connect
 
-Feel free to explore my [portfolio](https://tims-playland.vercel.app/) or reach out for collaboration opportunities!
+Feel free to explore my [portfolio](https://timsplayland.vercel.app/) or reach out for collaboration opportunities!
