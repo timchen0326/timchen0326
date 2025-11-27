@@ -49,5 +49,4 @@ With a strong foundation in **mathematics** and **computer science**, I speciali
 ## 🚀 **Let's Connect!**  
 Explore my work on my [**portfolio website**](https://timchen0326.github.io/portfolio-website/) or check out my [**GitHub**](https://github.com/timchen0326) for projects and code samples. Connect with me on [**LinkedIn**](https://www.linkedin.com/in/timchen0326) for collaboration opportunities!  
 
-📧 **Email**: [timchen0326ca@gmail.com](mailto:timchen0326ca@gmail.com)  
-📞 **Phone**: +1-778-323-4326  
+📧 **Email**: [timchen0326ca@gmail.com](mailto:timchen0326ca@gmail.com)   
